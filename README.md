@@ -1,37 +1,11 @@
 <h1 align="center">Hi, I'm Hafsa 👋</h1>
-<h3 align="center">Computer Systems Engineer · Data Engineering & AI Instructor · Cloud-Native AI Builder</h3>
-
-<p align="center">
-  I build cloud-native, AI-powered systems — from ETL pipelines to multi-agent orchestration and quantum-enhanced finance models — and teach others to do the same.
-</p>
+<h3 align="center">Computer Systems Engineer · Data Engineering & AI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hafsajaved-pak/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-### 🚀 What I'm building
-
-- **⚛️ Quantum-Enhanced Portfolio Optimization** — Final year project benchmarking classical vs. quantum portfolio optimization. Combines LSTM/XGBoost forecasting, CVaR optimization, and D-Wave/Qiskit quantum solvers, deployed serverless on Azure.
-  → [`portolio-optimzer-function`](https://github.com/HafsaJavedPak/portolio-optimzer-function) · [`portolio-optimzer-interface`](https://github.com/HafsaJavedPak/portolio-optimzer-interface)
-
-- **📊 Observability-First GCP Data Platform** — Pub/Sub → Cloud Run → BigQuery pipeline, transformed with dbt and orchestrated via Airflow, with Cloud Monitoring dashboards, log-based alerting, and CI/CD via Cloud Build.
-  → [`gcp-monitoring`](https://github.com/HafsaJavedPak/gcp-monitoring)
-
-- **🤖 Multi-Agent AI Crisis Orchestration System** — A 7-node, cyclic multi-agent pipeline (LangGraph) for crisis response, with human-in-the-loop approval gates and a serverless FastAPI backend on Cloud Run syncing live to a Flutter dashboard. *(private repo — ask me for a walkthrough)*
-
-- **🛡️ AI-Powered Trojan Detection** — Patent-pending memory forensics system for detecting malicious software at the memory level, built during my research role at the Secured IoT Devices Lab, UET Peshawar. *(private repo — ask me for a walkthrough)*
-
----
-
-### 🎓 Currently teaching
-
-- **Data Engineering Instructor**, KPITB — full ETL curriculum: Python, SQL, AWS, Git, Airflow, dbt
-- **AI/Agentic AI Instructor**, Saylani Mass IT Training
-- **AI Trainee**, atomcamp — Deep Learning, Computer Vision & NLP
 
 ---
 
@@ -52,36 +26,50 @@
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **AI / ML**
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![PyTorch](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
 ### 📜 Certifications
 
-`AWS Certified Cloud Practitioner` · `AZ-900: Azure Fundamentals` · `Open Source Software Development Methods (Linux Foundation)` · `Signal Processing Onramp (MathWorks)`
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="45" alt="AWS" title="AWS Certified Cloud Practitioner" />
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg" height="35" alt="Microsoft" title="AZ-900: Azure Fundamentals" />
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Linux_Foundation_logo_2013.svg" height="35" alt="Linux Foundation" title="Open Source Software Development Methods — Linux Foundation" />
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/MathWorks_Logo.png" height="35" alt="MathWorks" title="Signal Processing Onramp — MathWorks" />
+</p>
 
 ---
 
-### 🌱 Community & Leadership
+### 🏢 Organizations & Achievements
 
-Captain, AWS Cloud Clubs · Lead, Microsoft Student Chapter · President, Young Peace and Development Corps — UET Peshawar
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="AWS Cloud Clubs" title="Captain, AWS Cloud Clubs" />
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg" height="30" alt="Microsoft Student Chapter" title="Lead, Microsoft Student Chapter" />
+  &nbsp;&nbsp;
+  <img src="https://uetpeshawar.edu.pk/wp-content/uploads/2021/01/UET-Logo.png" height="45" alt="UET Peshawar" title="Researcher, Secured IoT Devices Lab — UET Peshawar" />
+</p>
+
+**Roles:** Data Engineering Instructor, KPITB · AI/Agentic AI Instructor, Saylani Mass IT Training · AI Trainee, atomcamp · Systems Engineer & Malware Analyst, WellTime Ltd (UK) · Researcher, Secured IoT Devices Lab, UET Peshawar
+
+**Leadership:** Captain, AWS Cloud Clubs · Lead, Microsoft Student Chapter · President, Young Peace and Development Corps
+
+**Achievements:** Patent-pending Trojan Detection System (AI + memory forensics) · Patent-pending Ransomware Behavioral Detection Technique
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HafsaJavedPak&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HafsaJavedPak&hide_border=true" height="165" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafsaJavedPak&layout=compact&hide_border=true&langs_count=8" height="165" />
 </p>
