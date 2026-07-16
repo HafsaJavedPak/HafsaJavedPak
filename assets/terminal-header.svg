@@ -1,0 +1,48 @@
+<svg width="800" height="260" viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .term-bg { fill: #0d1117; }
+      .term-border { fill: none; stroke: #30363d; stroke-width: 1.5; }
+      .dot-red { fill: #ff5f56; }
+      .dot-yellow { fill: #ffbd2e; }
+      .dot-green { fill: #27c93f; }
+      .prompt { font-family: 'Courier New', monospace; font-size: 16px; fill: #00ff9c; }
+      .cmd { font-family: 'Courier New', monospace; font-size: 16px; fill: #c9d1d9; }
+      .bigtext {
+        font-family: 'Courier New', monospace;
+        font-weight: bold;
+        font-size: 46px;
+        fill: #00ff9c;
+      }
+      .subtitle {
+        font-family: 'Courier New', monospace;
+        font-size: 18px;
+        fill: #58a6ff;
+      }
+      .comment { font-family: 'Courier New', monospace; font-size: 14px; fill: #6e7681; }
+      .cursor { fill: #00ff9c; }
+    </style>
+  </defs>
+
+  <!-- window -->
+  <rect x="1" y="1" width="798" height="258" rx="10" class="term-bg" />
+  <rect x="1" y="1" width="798" height="258" rx="10" class="term-border" />
+
+  <!-- title bar -->
+  <rect x="1" y="1" width="798" height="34" rx="10" fill="#161b22" />
+  <rect x="1" y="24" width="798" height="11" fill="#161b22" />
+  <circle cx="26" cy="18" r="6" class="dot-red" />
+  <circle cx="48" cy="18" r="6" class="dot-yellow" />
+  <circle cx="70" cy="18" r="6" class="dot-green" />
+  <text x="400" y="23" text-anchor="middle" class="comment">hafsa@github: ~</text>
+
+  <!-- terminal content -->
+  <text x="24" y="68" class="prompt">hafsa@github <tspan fill="#6e7681">:~$</tspan> <tspan class="cmd">whoami</tspan></text>
+
+  <text x="24" y="118" class="bigtext">whoami</text>
+
+  <text x="24" y="155" class="subtitle">Computer Systems Engineer</text>
+  <text x="24" y="180" class="subtitle">Cloud, Data Engineering &amp; AI</text>
+
+  <text x="24" y="220" class="prompt">hafsa@github <tspan fill="#6e7681">:~$</tspan> <tspan class="cursor">▍</tspan></text>
+</svg>
