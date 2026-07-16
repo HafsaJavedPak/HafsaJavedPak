@@ -1,11 +1,19 @@
-<h1 align="center">Hi, I'm Hafsa 👋</h1>
-<h3 align="center">Computer Systems Engineer · Data Engineering & AI</h3>
+
+<h3 align="center">Computer Systems Engineer · Cloud, Data Engineering & AI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hafsajaved-pak/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Computer+Systems+Engineer;Data+Engineering+Instructor;AI+%2F+Agentic+AI+Builder;Cloud-Native+Systems" alt="Typing SVG" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:4285F4&height=200&section=header&text=Hafsa%20Javed&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%" />
+
 
 ---
 
