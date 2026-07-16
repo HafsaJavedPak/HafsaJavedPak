@@ -45,7 +45,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="45" alt="AWS" title="AWS Certified Cloud Practitioner" />
   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg" height="35" alt="Microsoft" title="AZ-900: Azure Fundamentals" />
-  <img src="https://cdn.simpleicons.org/linuxfoundation/003778" height="50" alt="Linux Foundation" title="Open Source Software Development Methods — Linux Foundation" />
+  <img src="https://en.wikipedia.org/wiki/Linux_Foundation#/media/File:Linux_Foundation_logo_2013.svg" height="50" alt="Linux Foundation" title="Open Source Software Development Methods — Linux Foundation" />
   &nbsp;&nbsp;&nbsp;
 </p>
 
