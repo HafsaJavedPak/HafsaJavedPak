@@ -42,13 +42,10 @@
 ### 📜 Certifications
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="45" alt="AWS" title="AWS Certified Cloud Practitioner" />
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg" height="35" alt="Microsoft" title="AZ-900: Azure Fundamentals" />
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Linux_Foundation_logo_2013.svg" height="35" alt="Linux Foundation" title="Open Source Software Development Methods — Linux Foundation" />
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/MathWorks_Logo.png" height="35" alt="MathWorks" title="Signal Processing Onramp — MathWorks" />
+  <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AZ--900%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Dev%20Methods-003778?style=for-the-badge&logo=linuxfoundation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Signal%20Processing%20Onramp-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
 </p>
 
 ---
