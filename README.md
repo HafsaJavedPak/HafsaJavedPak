@@ -1,4 +1,7 @@
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HafsaJavedPak/HafsaJavedPak/main/assets/terminal-header.svg" alt="whoami" width="700" />
+</p>
 
 -----
 <p align="center">
