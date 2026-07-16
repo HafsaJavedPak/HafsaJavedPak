@@ -42,10 +42,13 @@
 ### 📜 Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AZ--900%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Dev%20Methods-003778?style=for-the-badge&logo=linuxfoundation&logoColor=white" />
-  <img src="https://img.shields.io/badge/Signal%20Processing%20Onramp-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="50" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="50" alt="AZ-900 Azure Fundamentals" title="AZ-900: Azure Fundamentals" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linuxfoundation/003778" height="50" alt="Linux Foundation" title="Open Source Software Development Methods — Linux Foundation" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mathworks/0076A8" height="50" alt="MathWorks" title="Signal Processing Onramp — MathWorks" />
 </p>
 
 ---
