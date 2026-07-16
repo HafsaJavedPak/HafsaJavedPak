@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=%24+whoami;Computer+Systems+Engineer;%24+cat+specialties.txt;Cloud+%C2%B7+Data+Engineering+%C2%B7+AI" alt="Typing SVG" />
-</p>
 
-<h3 align="center">Computer Systems Engineer · Cloud, Data Engineering & AI</h3>
 
+-----
 <p align="center">
   <a href="https://www.linkedin.com/in/hafsajaved-pak/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -11,15 +8,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Computer+Systems+Engineer;Data+Engineering+Instructor;AI+%2F+Agentic+AI+Builder;Cloud-Native+Systems" alt="Typing SVG" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:4285F4&height=200&section=header&text=Hafsa%20Javed&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%" />
-
-
----
-
 ### 🧰 Tech Stack
 
 **Languages**
@@ -64,20 +52,14 @@
 
 ### 🏢 Organizations & Achievements
 
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="AWS Cloud Clubs" title="Captain, AWS Cloud Clubs" />
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg" height="30" alt="Microsoft Student Chapter" title="Lead, Microsoft Student Chapter" />
-  &nbsp;&nbsp;
-  <img src="https://uetpeshawar.edu.pk/wp-content/uploads/2021/01/UET-Logo.png" height="45" alt="UET Peshawar" title="Researcher, Secured IoT Devices Lab — UET Peshawar" />
-</p>
-
-**Roles:** Data Engineering Instructor, KPITB · AI/Agentic AI Instructor, Saylani Mass IT Training · AI Trainee, atomcamp · Systems Engineer & Malware Analyst, WellTime Ltd (UK) · Researcher, Secured IoT Devices Lab, UET Peshawar
+**Roles:** Data Engineering Instructor, KPITB · AI Trainee, atomcamp · Systems Engineer & Malware Analyst, WellTime Ltd (UK) · Researcher, Secured IoT Devices Lab, UET Peshawar
 
 **Leadership:** Captain, AWS Cloud Clubs · Lead, Microsoft Student Chapter · President, Young Peace and Development Corps
 
 **Achievements:** Patent-pending Trojan Detection System (AI + memory forensics) · Patent-pending Ransomware Behavioral Detection Technique
 
+----
+<img src="https://raw.githubusercontent.com/HafsaJavedPak/HafsaJavedPak/output/github-contribution-grid-snake.svg" width="100%" />
 ---
 
 <p align="center">
