@@ -62,7 +62,11 @@
 **Achievements:** Patent-pending Trojan Detection System (AI + memory forensics) · Patent-pending Ransomware Behavioral Detection Technique
 
 ----
-<img src="https://raw.githubusercontent.com/HafsaJavedPak/HafsaJavedPak/output/github-contribution-grid-snake.svg" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HafsaJavedPak/HafsaJavedPak/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake gif" src="https://raw.githubusercontent.com/HafsaJavedPak/HafsaJavedPak/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
 ---
 
 <p align="center">
