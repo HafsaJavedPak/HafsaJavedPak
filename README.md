@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=%24+whoami;Computer+Systems+Engineer;%24+cat+specialties.txt;Cloud+%C2%B7+Data+Engineering+%C2%B7+AI" alt="Typing SVG" />
+</p>
 
 <h3 align="center">Computer Systems Engineer · Cloud, Data Engineering & AI</h3>
 
